@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\v\u0131ctus\\source\\repos\\NtpFilmKiralama\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\v\u0131ctus\\source\\repos\\NtpFilmKiralama\\NtpFilmKiralama\\NtpFilmKiralama.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NtpFilmKiralama\\NtpFilmKiralama.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\v\u0131ctus\\source\\repos\\NtpFilmKiralama\\NtpFilmKiralama\\Forms\\MainWindow.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NtpFilmKiralama\\Forms\\MainWindow.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\v\u0131ctus\\source\\repos\\NtpFilmKiralama\\NtpFilmKiralama\\Forms\\MainWindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NtpFilmKiralama\\Forms\\MainWindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\v\u0131ctus\\source\\repos\\NtpFilmKiralama\\NtpFilmKiralama\\Forms\\MainWindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NtpFilmKiralama\\Forms\\MainWindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\v\u0131ctus\\source\\repos\\NtpFilmKiralama\\NtpFilmKiralama\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NtpFilmKiralama\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\v\u0131ctus\\source\\repos\\NtpFilmKiralama\\NtpFilmKiralama\\Film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NtpFilmKiralama\\Film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\v\u0131ctus\\source\\repos\\NtpFilmKiralama\\NtpFilmKiralama\\Ki\u015Fi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NtpFilmKiralama\\Ki\u015Fi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\v\u0131ctus\\source\\repos\\NtpFilmKiralama\\NtpFilmKiralama\\rentedfilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NtpFilmKiralama\\rentedfilm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\v\u0131ctus\\source\\repos\\NtpFilmKiralama\\NtpFilmKiralama\\Resources\\Film Verisi.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NtpFilmKiralama\\Resources\\Film Verisi.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\v\u0131ctus\\source\\repos\\NtpFilmKiralama\\NtpFilmKiralama\\Resources\\KiralamaVerisi.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NtpFilmKiralama\\Resources\\KiralamaVerisi.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "rentedfilm.cs",
+              "DocumentMoniker": "C:\\Users\\v\u0131ctus\\source\\repos\\NtpFilmKiralama\\NtpFilmKiralama\\rentedfilm.cs",
+              "RelativeDocumentMoniker": "NtpFilmKiralama\\rentedfilm.cs",
+              "ToolTip": "C:\\Users\\v\u0131ctus\\source\\repos\\NtpFilmKiralama\\NtpFilmKiralama\\rentedfilm.cs",
+              "RelativeToolTip": "NtpFilmKiralama\\rentedfilm.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T16:51:33.282Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NtpFilmKiralama.csproj",
+              "DocumentMoniker": "C:\\Users\\v\u0131ctus\\source\\repos\\NtpFilmKiralama\\NtpFilmKiralama\\NtpFilmKiralama.csproj",
+              "RelativeDocumentMoniker": "NtpFilmKiralama\\NtpFilmKiralama.csproj",
+              "ToolTip": "C:\\Users\\v\u0131ctus\\source\\repos\\NtpFilmKiralama\\NtpFilmKiralama\\NtpFilmKiralama.csproj",
+              "RelativeToolTip": "NtpFilmKiralama\\NtpFilmKiralama.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-10T13:19:22.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\v\u0131ctus\\source\\repos\\NtpFilmKiralama\\NtpFilmKiralama\\Forms\\MainWindow.cs",
+              "RelativeDocumentMoniker": "NtpFilmKiralama\\Forms\\MainWindow.cs",
+              "ToolTip": "C:\\Users\\v\u0131ctus\\source\\repos\\NtpFilmKiralama\\NtpFilmKiralama\\Forms\\MainWindow.cs [Design]",
+              "RelativeToolTip": "NtpFilmKiralama\\Forms\\MainWindow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T16:32:15.708Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ki\u015Fi.cs",
+              "DocumentMoniker": "C:\\Users\\v\u0131ctus\\source\\repos\\NtpFilmKiralama\\NtpFilmKiralama\\Ki\u015Fi.cs",
+              "RelativeDocumentMoniker": "NtpFilmKiralama\\Ki\u015Fi.cs",
+              "ToolTip": "C:\\Users\\v\u0131ctus\\source\\repos\\NtpFilmKiralama\\NtpFilmKiralama\\Ki\u015Fi.cs",
+              "RelativeToolTip": "NtpFilmKiralama\\Ki\u015Fi.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T16:34:36.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Film.cs",
+              "DocumentMoniker": "C:\\Users\\v\u0131ctus\\source\\repos\\NtpFilmKiralama\\NtpFilmKiralama\\Film.cs",
+              "RelativeDocumentMoniker": "NtpFilmKiralama\\Film.cs",
+              "ToolTip": "C:\\Users\\v\u0131ctus\\source\\repos\\NtpFilmKiralama\\NtpFilmKiralama\\Film.cs",
+              "RelativeToolTip": "NtpFilmKiralama\\Film.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T16:41:47.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\v\u0131ctus\\source\\repos\\NtpFilmKiralama\\NtpFilmKiralama\\Program.cs",
+              "RelativeDocumentMoniker": "NtpFilmKiralama\\Program.cs",
+              "ToolTip": "C:\\Users\\v\u0131ctus\\source\\repos\\NtpFilmKiralama\\NtpFilmKiralama\\Program.cs",
+              "RelativeToolTip": "NtpFilmKiralama\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T17:03:15.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\v\u0131ctus\\source\\repos\\NtpFilmKiralama\\NtpFilmKiralama\\Forms\\MainWindow.Designer.cs",
+              "RelativeDocumentMoniker": "NtpFilmKiralama\\Forms\\MainWindow.Designer.cs",
+              "ToolTip": "C:\\Users\\v\u0131ctus\\source\\repos\\NtpFilmKiralama\\NtpFilmKiralama\\Forms\\MainWindow.Designer.cs",
+              "RelativeToolTip": "NtpFilmKiralama\\Forms\\MainWindow.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:54:03.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.cs",
+              "DocumentMoniker": "C:\\Users\\v\u0131ctus\\source\\repos\\NtpFilmKiralama\\NtpFilmKiralama\\Forms\\MainWindow.cs",
+              "RelativeDocumentMoniker": "NtpFilmKiralama\\Forms\\MainWindow.cs",
+              "ToolTip": "C:\\Users\\v\u0131ctus\\source\\repos\\NtpFilmKiralama\\NtpFilmKiralama\\Forms\\MainWindow.cs",
+              "RelativeToolTip": "NtpFilmKiralama\\Forms\\MainWindow.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T17:38:27.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KiralamaVerisi.txt",
+              "DocumentMoniker": "C:\\Users\\v\u0131ctus\\source\\repos\\NtpFilmKiralama\\NtpFilmKiralama\\Resources\\KiralamaVerisi.txt",
+              "RelativeDocumentMoniker": "NtpFilmKiralama\\Resources\\KiralamaVerisi.txt",
+              "ToolTip": "C:\\Users\\v\u0131ctus\\source\\repos\\NtpFilmKiralama\\NtpFilmKiralama\\Resources\\KiralamaVerisi.txt",
+              "RelativeToolTip": "NtpFilmKiralama\\Resources\\KiralamaVerisi.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-09T18:38:11.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Film Verisi.txt",
+              "DocumentMoniker": "C:\\Users\\v\u0131ctus\\source\\repos\\NtpFilmKiralama\\NtpFilmKiralama\\Resources\\Film Verisi.txt",
+              "RelativeDocumentMoniker": "NtpFilmKiralama\\Resources\\Film Verisi.txt",
+              "ToolTip": "C:\\Users\\v\u0131ctus\\source\\repos\\NtpFilmKiralama\\NtpFilmKiralama\\Resources\\Film Verisi.txt",
+              "RelativeToolTip": "NtpFilmKiralama\\Resources\\Film Verisi.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-09T17:52:13.975Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
